@@ -1,6 +1,6 @@
 ### Hi there 👋, This repository contains completed projects.
 
-##Project Overview
+## Project Overview
 
 **Web Development Project** ✨
 * Created a fully functional course registration website using Node.js, Express, JavaScript, HTML, CSS & used MongoDB for database purposes.
