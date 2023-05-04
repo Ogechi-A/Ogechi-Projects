@@ -8,7 +8,7 @@
 
 **Software Engineering Project**
 * A computerized version of the Focus(AKA Domination) Board Game that caters to colour blindness using Java.
-* For more Information : 
+* For more Information : https://github.com/Ogechi-A/Ogechi-Projects/blob/180f39b5765e3af1439f71efa921d9341e69e9b4/Focus-Game-Project.md
 
 <!--
 **Ogechi-A/Ogechi-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
