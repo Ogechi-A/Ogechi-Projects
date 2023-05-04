@@ -3,13 +3,15 @@ Collaborated with a team of software developers to create a computerized version
 Note: To get access to the private repo for the project, please email agboogechi_03@icloud.com
 
 **Game Setup:**
+
 _Each player chooses which color they are going to play and takes the corresponding number of pieces. The number of pieces and colors that are used depends on the number of players:
 Two Players: Green and Red Playing Pieces – 18 of each color
 Three Players: Green, Red, and Blue Playing Pieces – 13 of each color
 Four Players: Green, Red, Blue and Yellow Playing Pieces – 13 of each color
 Take one playing piece of each color that is in the game. One player randomly selects one of the pieces to determine who will start the game.
 
-**Game Play**
+**Game Play:**
+
 Two to four players move stacks of one to five pieces around a checkerboard with the three squares in each corner removed,forming a 6×6 board with 1×4 extensions on each side. 
 Stacks may move as many spaces as there are pieces in the stack. Players may only move a stack if the topmost piece in the stack is one of their pieces. 
 When a stack lands on another stack, the two stacks merge; if the new stack contains more than five pieces, then pieces are removed from the bottom to bring it down to five. 
