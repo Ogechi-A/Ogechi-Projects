@@ -1,4 +1,5 @@
-Collaborated with a team of software developers to create a computerized version of the Focus Board Game using Java that caters to color blindness.
+For my Software Enginerring Course, i collaborated with a team of software developers to create a computerized version of the Focus(AKA Domination) Board Game using Java that caters to color blindness.
+
 -The project uses the GRASP(General Responsibility Assignment Software Patterns) Object-Oriented Design such as low coupling, high cohesion, polymorphism etc to solve software problems .
 
 *Note: To get access to the private repo for the project, please email agboogechi_03@icloud.com
