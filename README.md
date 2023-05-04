@@ -1,4 +1,10 @@
-### Hi there 👋, This repository will contain completed projects.
+### Hi there 👋, This repository contains completed projects.
+
+##Project Overview**
+
+**Web Development Project**
+* Created a fully functional course registration website using Node.js, Express, JavaScript, HTML, CSS & used MongoDB for database purposes.
+* For more 
 
 <!--
 **Ogechi-A/Ogechi-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
