@@ -12,7 +12,7 @@ Created a fully functional course registration tool/website for my Web Developme
 
 **List of some features implemented on the website include:**
 
-_1. Login & Logout feature
+1. Login & Logout feature
 
 2. New user registration into the database.
 
@@ -22,7 +22,7 @@ _1. Login & Logout feature
  
 5. View students schedule in relation to the courses registered.
 
-6. Update user Information._
+6. Update user Information.
 
 **Website Snapshots :**
 
