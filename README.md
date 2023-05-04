@@ -4,7 +4,11 @@
 
 **Web Development Project**
 * Created a fully functional course registration website using Node.js, Express, JavaScript, HTML, CSS & used MongoDB for database purposes.
-* For more 
+* For more Information : https://github.com/Ogechi-A/Ogechi-Projects/blob/6052e4624a9017f9f02512b41796b87e108c5eec/Course-Registration-Website-Project.md
+
+**Software Engineering Project**
+* A computerized version of the Focus(AKA Domination) Board Game that caters to colour blindness using Java.
+* For more Information : 
 
 <!--
 **Ogechi-A/Ogechi-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
